@@ -1,2 +1,3 @@
 recipes/QuickStart/QuickStart.ipynb
 recipes/InstructValidateRepair/InstructValidateRepair.ipynb
+recipes/RawLLMvsMellea/RawLLMvsMellea.ipynb

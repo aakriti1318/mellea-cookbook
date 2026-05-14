@@ -14,6 +14,10 @@ The "Recipes" in the Mellea Cookbook showcase the capabilities of Mellea, in bit
    <a target="_blank" href="https://colab.research.google.com/github/generative-computing/mellea-cookbook/blob/main/recipes/InstructValidateRepair/InstructValidateRepair.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
+1. [Raw LLM vs. Mellea](recipes/RawLLMvsMellea/RawLLMvsMellea.ipynb) — Compare raw LLM calls with Mellea's structured extraction, validation, and repair workflow for invoice parsing.
+   <a target="_blank" href="https://colab.research.google.com/github/generative-computing/mellea-cookbook/blob/main/recipes/RawLLMvsMellea/RawLLMvsMellea.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
 
 ## Build Status
 
@@ -23,7 +27,7 @@ The "Recipes" in the Mellea Cookbook showcase the capabilities of Mellea, in bit
 
 ## Contributing
 
-For information about contributing to this repo, code of conduct guidelines, etc., see the community [CONTRIBUTING][CG] and [Code of Conduct][CoC] guides. All commits require [DCO-signoff][CG-legal] _and_ [GPG or SSH signing][CG-signing]. The GitHub recommended code security settings are enforced on this public repository (which include the signing requirement).
+For information about contributing to this repo refer the [CONTRIBUTION][CONTRIBUTION] guide, code of conduct guidelines, etc., see the community [CONTRIBUTING][CG] and [Code of Conduct][CoC] guides. All commits require [DCO-signoff][CG-legal] _and_ [GPG or SSH signing][CG-signing]. The GitHub recommended code security settings are enforced on this public repository (which include the signing requirement).
 
 <!-- For more background, please see the [community discussions](https://github.com/orgs/generative-computing/discussions). -->
 
@@ -39,6 +43,7 @@ Any example datasets committed to this repository are licensed under CDLA Permis
 
 All content in these repositories including code has been provided by IBM under the associated open source software license and IBM is under no obligation to provide enhancements, updates, or support. IBM developers produced this code as an open source project (not as an IBM product), and IBM makes no assertions as to the level of quality nor security, and will not be maintaining this code going forward.
 
+[CONTRIBUTION]: CONTRIBUTING.md
 [CoC]: https://github.com/generative-computing/.github/blob/main/CODE_OF_CONDUCT.md
 [CG]: https://github.com/generative-computing/.github/blob/main/CONTRIBUTING.md
 [CG-legal]: https://github.com/generative-computing/.github/blob/main/CONTRIBUTING.md#legal
